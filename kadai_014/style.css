@@ -10,14 +10,14 @@ body{
 }
 
 .html{
-  font size: 20px;
+  font-size: 20px;
 }
 
 .profile{
   text-align: center; 
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px gray;
-  font size: 2rem;
+  font-size: 2rem;
 }
 .decoration,.decorationsky,.decorationpink{
   text-align: center;
