@@ -9,66 +9,25 @@ body{
     border-bottom: solid 3px rgb(115,115,114)
 }
 
+.html{
+  font size: 20px;
+}
+
 .profile{
-  font-size: 40px;
   text-align: center; 
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px gray;
+  font size: 2em;
 }
-.decoration1{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration2{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration3{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration4{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration5{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration6{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration7{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration8{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration9{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration10{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration11{
-  font-size: 20px;
-  text-align: center;
-}
-.decoration12{
-  font-size: 20px;
+.decoration,.decorationsky,.decorationpink{
   text-align: center;
 }
 
-.text-skyblue,.decoration3,.decoration7,.decoration11 {
+.text-skyblue,.decorationsky {
   color:skyblue ;
 }
 
-.text-pink,.decoration1,.decoration5,.decoration9{
+.text-pink,.decorationpink{
   color: rgb(255, 192, 203);
 }
 
